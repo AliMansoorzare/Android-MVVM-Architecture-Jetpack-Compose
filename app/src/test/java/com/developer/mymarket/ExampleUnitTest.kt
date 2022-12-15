@@ -1,4 +1,4 @@
-package ir.developer.mymarket
+package com.developer.mymarket
 
 import org.junit.Test
 

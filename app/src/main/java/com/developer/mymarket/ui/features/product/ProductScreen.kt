@@ -33,7 +33,6 @@ import com.developer.mymarket.model.data.Comment
 import com.developer.mymarket.model.data.Product
 import com.developer.mymarket.ui.theme.*
 import com.developer.mymarket.util.stylePrice
-import ir.developer.mymarket.ui.theme.*
 import com.developer.mymarket.util.MyScreens
 import com.developer.mymarket.util.NetworkChecker
 import serat.mymarket.R

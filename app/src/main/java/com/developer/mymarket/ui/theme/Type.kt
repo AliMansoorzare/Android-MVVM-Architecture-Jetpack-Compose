@@ -1,4 +1,4 @@
-package ir.developer.mymarket.ui.theme
+package com.developer.mymarket.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

@@ -6,7 +6,6 @@ import androidx.compose.material.lightColors
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.graphics.Color
 import com.google.accompanist.systemuicontroller.rememberSystemUiController
-import ir.developer.mymarket.ui.theme.Typography
 
 //private val DarkColorPalette = darkColors(
 //    primary = Purple200,
