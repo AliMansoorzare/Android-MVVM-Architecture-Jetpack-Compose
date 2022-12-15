@@ -8,7 +8,7 @@ android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "ir.dunijet.dunibazaar"
+        applicationId "com.developer.mymarket"
         minSdk 21
         targetSdk 33
         versionCode 1
