@@ -6,7 +6,7 @@ A market android app that demonstrates MVVM Architecture and is written in kotli
 ViewModel<br />
 LiveData-State<br />
 ---
-###Used Libraries<br />
+##Used Libraries<br />
 MVVM Architecture (Composable View - ViewModel - Model)<br />
 Coroutines<br />
 Retrofit2<br />
