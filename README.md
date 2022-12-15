@@ -3,12 +3,13 @@ A market android app that demonstrates MVVM Architecture and is written in kotli
 ---
 ###Using Jetpack Architecture Components<br />
 Room<br />
-ViewModel__
-LiveData-State__
+ViewModel<br />
+LiveData-State<br />
 ---
 ###Used Libraries<br />
-Coroutines__
-Retrofit2__
-Koin__
-Coil__
+MVVM Architecture (Composable View - ViewModel - Model)<br />
+Coroutines<br />
+Retrofit2<br />
+Koin<br />
+Coil<br />
 
