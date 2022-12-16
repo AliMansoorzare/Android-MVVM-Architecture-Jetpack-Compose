@@ -3,23 +3,13 @@
 ---
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=ma1ZYSYhv5I)
 ---
-![Screenshot_1671084825](https://user-images.githubusercontent.com/91757328/208046635-b1d4650b-55a6-46e4-aabf-ec4aa645cc84.png)
-
+![Screenshot_1671176192](https://user-images.githubusercontent.com/91757328/208047681-803f192e-ee86-47bd-987b-d754967befba.png)
 ---
-![Screenshot_1671084820](https://user-images.githubusercontent.com/91757328/208046655-c2dee62f-29c7-496d-9a9d-4eb96b4051ac.png)
-
+![Screenshot_1671176199](https://user-images.githubusercontent.com/91757328/208047734-a347a46b-6dd7-42f4-b1f1-e9e99bbf0056.png)
 ---
-![Screenshot_1671084789](https://user-images.githubusercontent.com/91757328/208046789-fb71b3d0-3974-464b-963d-0f74d4b9bcbe.png)
-
+![Screenshot_1671176206](https://user-images.githubusercontent.com/91757328/208047745-11d398d5-4967-4bf7-9f57-9d6513cc0cd8.png)
 ---
-![Screenshot_1671084705](https://user-images.githubusercontent.com/91757328/208046827-dd1497f7-b9d2-4800-bd50-e554daac6ea8.png)
-
----
-![Screenshot_1671084682](https://user-images.githubusercontent.com/91757328/208046849-e001151e-86d1-495a-91e5-a0fce7442a7c.png)
-
----
-
----
+![Screenshot_1671176212](https://user-images.githubusercontent.com/91757328/208047752-67db3a32-9484-4618-9090-bb94a77c2dd9.png)
 
 ### Using Jetpack Architecture Components<br />
 ###### [1. Room](https://developer.android.com/training/data-storage/room)<br />
