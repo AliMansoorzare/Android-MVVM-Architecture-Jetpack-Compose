@@ -10,6 +10,6 @@
 ###### [MVVM Architecture (Composable View - ViewModel - Model)](https://medium.com/codex/get-started-with-mvvm-in-android-959e7666caa5)<br />
 ###### [Coroutines](https://kotlinlang.org/docs/coroutines-overview.html)<br />
 ###### [Retrofit2](https://square.github.io/retrofit/)<br />
-###### [Koin](https://insert-koin.io/)<br />
+###### [Koin](https://github.com/burnoo/cokoin)<br />
 ###### [Coil](https://coil-kt.github.io/coil/compose/)<br />
 
