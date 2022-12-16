@@ -2,6 +2,7 @@
 ###### A market android app that demonstrates MVVM Architecture and is written in kotlin and jetpack compose.
 ---
 ![Screenshot_1671084820](https://user-images.githubusercontent.com/91757328/208010899-ea1f7210-26de-4cbe-b6a7-531a8d2f3448.png)
+---
 
 ### Using Jetpack Architecture Components<br />
 ###### [1. Room](https://developer.android.com/training/data-storage/room)<br />
