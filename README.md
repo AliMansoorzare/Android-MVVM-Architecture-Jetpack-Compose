@@ -2,18 +2,23 @@
 ###### A market android app that demonstrates MVVM Architecture and is written in kotlin and jetpack compose.
 ---
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=ma1ZYSYhv5I)
+---
+![Screenshot_1671084825](https://user-images.githubusercontent.com/91757328/208046635-b1d4650b-55a6-46e4-aabf-ec4aa645cc84.png)
 
-![Screenshot_1671084820](https://user-images.githubusercontent.com/91757328/208010899-ea1f7210-26de-4cbe-b6a7-531a8d2f3448.png)
 ---
-![Screenshot_1671084825](https://user-images.githubusercontent.com/91757328/208011076-2743e5fd-b603-485a-ad35-8337696b9639.png)
+![Screenshot_1671084820](https://user-images.githubusercontent.com/91757328/208046655-c2dee62f-29c7-496d-9a9d-4eb96b4051ac.png)
+
 ---
-![Screenshot_1671084705](https://user-images.githubusercontent.com/91757328/208011125-53481aa8-353a-4561-a2f4-57daa7eb6c8d.png)
+![Screenshot_1671084789](https://user-images.githubusercontent.com/91757328/208046789-fb71b3d0-3974-464b-963d-0f74d4b9bcbe.png)
+
 ---
-![Screenshot_1671084739](https://user-images.githubusercontent.com/91757328/208011172-9ace38a5-7141-4707-92e8-0cb2f0ca0b37.png)
+![Screenshot_1671084705](https://user-images.githubusercontent.com/91757328/208046827-dd1497f7-b9d2-4800-bd50-e554daac6ea8.png)
+
 ---
-![Screenshot_1671084717](https://user-images.githubusercontent.com/91757328/208011199-75cd355e-d18a-4a92-9d9f-4f6090248962.png)
+![Screenshot_1671084682](https://user-images.githubusercontent.com/91757328/208046849-e001151e-86d1-495a-91e5-a0fce7442a7c.png)
+
 ---
-![Screenshot_1671084742](https://user-images.githubusercontent.com/91757328/208011230-d9d754e1-c05a-4509-a4cc-8287163f28a0.png)
+
 ---
 
 ### Using Jetpack Architecture Components<br />
