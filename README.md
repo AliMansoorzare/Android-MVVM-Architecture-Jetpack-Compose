@@ -1,4 +1,4 @@
-# Android-Jetpack-Compose-MVVM-Architecture
+# Android-MVVM-Architecture-Jetpack-Compose
 ###### A market android app that demonstrates MVVM Architecture and is written in kotlin and jetpack compose.
 ---
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=ma1ZYSYhv5I)
