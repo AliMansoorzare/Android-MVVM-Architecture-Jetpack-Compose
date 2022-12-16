@@ -3,6 +3,16 @@
 ---
 ![Screenshot_1671084820](https://user-images.githubusercontent.com/91757328/208010899-ea1f7210-26de-4cbe-b6a7-531a8d2f3448.png)
 ---
+![Screenshot_1671084825](https://user-images.githubusercontent.com/91757328/208011076-2743e5fd-b603-485a-ad35-8337696b9639.png)
+---
+![Screenshot_1671084705](https://user-images.githubusercontent.com/91757328/208011125-53481aa8-353a-4561-a2f4-57daa7eb6c8d.png)
+---
+![Screenshot_1671084739](https://user-images.githubusercontent.com/91757328/208011172-9ace38a5-7141-4707-92e8-0cb2f0ca0b37.png)
+---
+![Screenshot_1671084717](https://user-images.githubusercontent.com/91757328/208011199-75cd355e-d18a-4a92-9d9f-4f6090248962.png)
+---
+![Screenshot_1671084742](https://user-images.githubusercontent.com/91757328/208011230-d9d754e1-c05a-4509-a4cc-8287163f28a0.png)
+---
 
 ### Using Jetpack Architecture Components<br />
 ###### [1. Room](https://developer.android.com/training/data-storage/room)<br />
